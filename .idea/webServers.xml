@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b7a5e6ed-d04d-4e6d-8f07-cba3b5fe9ec0" name="밤의미슐랭" url="http://magicown.phps.kr">
-        <fileTransfer host="magicown.phps.kr" port="21" rootFolder="/www">
+      <webServer id="8169da0e-7cba-4705-a180-8508d6234ee3" name="여자미식가" url="http://magicown.phps.kr">
+        <fileTransfer host="magicown.phps.kr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
